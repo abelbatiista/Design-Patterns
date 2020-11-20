@@ -1,0 +1,3 @@
+Aquí se trató de explicar Singleton con una aplicación de consola, y con un ejemplo bien sencillo.
+
+Esto se hizo con la única finalidad de demostrar el uso del patrón.
